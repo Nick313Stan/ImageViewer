@@ -1,1 +1,1 @@
-This is my readme
+Image Viewer written in C++
