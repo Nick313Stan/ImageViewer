@@ -1,0 +1,3 @@
+C:\C++\ImageViewer\ImageViewer\x64\Debug\ImageViewer.vcxproj.AssemblyReference.cache
+C:\C++\ImageViewer\ImageViewer\x64\Debug\ImageViewer.MyForm.resources
+C:\C++\ImageViewer\ImageViewer\x64\Debug\ImageViewer.vcxproj.GenerateResource.cache
